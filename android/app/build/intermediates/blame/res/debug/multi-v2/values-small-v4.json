@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/trisys/MediPiperProject/LoginFlow/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
+            "outputFile": "/home/trisys/MediPiperProject/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
             "map": [
                 {
                     "source": "/home/trisys/.gradle/caches/transforms-2/files-2.1/3377cf00a0b87d8ab458c5c7d9cf75cd/res/values-small-v4/values-small-v4.xml",

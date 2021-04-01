@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.facebook.react:react-native:0.59.10@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/00713eb68b8985e1ec70e8342869863c/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f51e025979a1c341672c61fa3fb45d04/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/00713eb68b8985e1ec70e8342869863c/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/00713eb68b8985e1ec70e8342869863c/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/00713eb68b8985e1ec70e8342869863c/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f51e025979a1c341672c61fa3fb45d04/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f51e025979a1c341672c61fa3fb45d04/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f51e025979a1c341672c61fa3fb45d04/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../node_modules/react-native/android/com/facebook/react/react-native/0.59.10/react-native-0.59.10-javadoc.jar!/" />
