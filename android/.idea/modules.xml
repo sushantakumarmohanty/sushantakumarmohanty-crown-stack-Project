@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LoginFlow.iml" filepath="$PROJECT_DIR$/.idea/modules/LoginFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/903581024/LoginFlow.@react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/903581024/LoginFlow.@react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LoginFlow.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LoginFlow.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-423854310/LoginFlow.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-423854310/LoginFlow.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1586214793/LoginFlow.react-native-get-random-values.iml" filepath="$PROJECT_DIR$/.idea/modules/1586214793/LoginFlow.react-native-get-random-values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/390557915/LoginFlow.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/390557915/LoginFlow.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
