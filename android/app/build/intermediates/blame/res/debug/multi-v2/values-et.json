@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/trisys/MediPiperProject/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml",
+            "outputFile": "/home/trisys/crownstack_project/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml",
             "map": [
                 {
                     "source": "/home/trisys/.gradle/caches/transforms-2/files-2.1/685f8fe30d9e01d0dd536397f7773ddd/res/values-et/values-et.xml",

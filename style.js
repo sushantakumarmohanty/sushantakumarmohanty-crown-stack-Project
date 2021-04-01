@@ -7,41 +7,58 @@ export default StyleSheet.create({
     login_wrapper: {
 
     },
-    signup_wrapper: {
-        height:deviceHeight, justifyContent :'center'
+    syncStatus_transData: {
+        alignItems: 'center',
+        padding: 15,
+        flexDirection: 'row',
+        backgroundColor: '#2e3033',
+        justifyContent: 'center',
+        elevation: 20,
     },
-    homepage_wrapper :{
-        flex :1, justifyContent:'center',alignItems:'center'
+    sync_flex: { flex: 1 },
+    sync_marginLeft: { marginLeft: 2 },
+    signup_wrapper: {
+        height: deviceHeight, justifyContent: 'center'
+    },
+    sync_infoStatus: { color: '#7ad304', fontSize: 18, fontFamily: 'WorkSans-Medium', textAlign: 'center', left: -10 },
+    homepage_wrapper: {
+        flex: 1, justifyContent: 'center', alignItems: 'center'
     },
     login_imageView: {
-        alignItems: 'center', flex: 2, justifyContent: 'center', marginVertical : 50
+        alignItems: 'center', flex: 2, justifyContent: 'center', marginVertical: 50
     },
     signup_imageView: {
-        alignItems: 'center', flex: 0.6, justifyContent: 'center', marginVertical : 50
+        alignItems: 'center', flex: 0.6, justifyContent: 'center', marginVertical: 50
     },
     login_image_path: {
         width: widthPercentageToDP(60), height: widthPercentageToDP(60)
     },
+    mikel_image_path: {
+        width: widthPercentageToDP(80), height: widthPercentageToDP(80)
+    },
+    image_image_path: {
+        width: widthPercentageToDP(25), height: widthPercentageToDP(25), borderRadius: 10
+    },
     signup_image_path: {
         width: widthPercentageToDP(30), height: widthPercentageToDP(30)
     },
-    signup_header:{
-        fontSize :22,fontFamily: 'WorkSans-Regular',flex:2
+    signup_header: {
+        fontSize: 22, fontFamily: 'WorkSans-Regular', flex: 2
     },
-    chat_header:{
-        fontSize :22,fontFamily: 'WorkSans-Regular',flex:2.4
+    chat_header: {
+        fontSize: 22, fontFamily: 'WorkSans-Regular', flex: 2.4
     },
-    homepage_header:{
-        flex : 4
+    homepage_header: {
+        flex: 4
     },
-    homepage_text:{
-        fontSize :22,fontFamily: 'WorkSans-Regular', alignSelf:'center', marginLeft : 20
+    homepage_text: {
+        fontSize: 22, fontFamily: 'WorkSans-Regular', alignSelf: 'center', marginLeft: 20
     },
     login_userNameDiv: {
         elevation: 10, flex: 1, borderTopLeftRadius: 20, borderTopRightRadius: 20, justifyContent: 'space-between', flexDirection: 'column'
     },
     signup_userNameDiv: {
-         flex: 2.5, justifyContent: 'space-between', flexDirection: 'column'
+        flex: 2.5, justifyContent: 'space-between', flexDirection: 'column'
     },
     login_lowerDiv: {
         padding: 16, borderRadius: 15, margin: heightPercentageToDP(2)
@@ -76,11 +93,11 @@ export default StyleSheet.create({
     position_abs: {
         position: "absolute", right: 5
     },
-    homepage_welcome_text :{
-        alignSelf :'center', fontFamily :'WorkSans-Regular', fontSize : 14,
+    homepage_welcome_text: {
+        alignSelf: 'center', fontFamily: 'WorkSans-Regular', fontSize: 14,
     },
-    welcome_container :{
-        width :widthPercentageToDP(100), height : 40
+    welcome_container: {
+        width: widthPercentageToDP(100), height: 40
     },
     show_pwd: {
         position: 'absolute', flexWrap: 'wrap-reverse', right: widthPercentageToDP(5), top: 15
@@ -95,7 +112,7 @@ export default StyleSheet.create({
         fontFamily: "WorkSans-Medium", fontSize: 11, color: '#FF4500', fontFamily: 'WorkSans-Regular'
     },
     privacy_text_term: {
-        alignItems: 'center', justifyContent :'center', height :80,
+        alignItems: 'center', justifyContent: 'center', height: 80,
     },
     button_disable: {
         width: '90%', height: 48, marginTop: 0, borderRadius: 5, alignItems: 'center', justifyContent: 'center'
@@ -103,4 +120,4 @@ export default StyleSheet.create({
     continue_text: {
         fontSize: 16, fontFamily: 'WorkSans-SemiBold'
     },
-}) 
+})

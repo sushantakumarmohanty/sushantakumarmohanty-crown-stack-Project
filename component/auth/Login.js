@@ -106,7 +106,7 @@ class Login extends Component {
         request.password = password
         request.email = email
         callAPI("login",request).then((res)=>{
-            console.log(res)
+            console.log("RES_sushanta",res)
             if(res){
                 this.props.logged(res)
                 this.props.navigation.dispatch(onlogOn)
@@ -234,9 +234,11 @@ class Login extends Component {
                                             </View> : <View></View>
                                         }
                                     </View>
-                                    <View style={styles.forgot_pwd}>
-                                            <Text style={styles.forgot_pw_text} onPress={() => this.props.navigation.navigate('SignUp')}>Don't have account ? create one</Text>
-                                    </View>
+                                   <View style={{justifyContent:'center',alignItems:'center',backgroundColor:'#4d5054',padding:16,borderRadius:10,marginTop:20}}>
+                                       <TouchableOpacity onPress={() => this.props.navigation.navigate('ListingSong')}>
+                                           <Text style={{fontFamily:'WorkSans-SemiBold',color:'#000',fontSize:18}}>Crown Stack Click Me</Text>
+                                       </TouchableOpacity>
+                                   </View>
                                 </View>
                             </View>
                         </View>
